@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I find myself drawn to the convergence of **physics, math, & CS**, where abstract theories meet real-world phenomena, and computation becomes the bridge that turns equations into discovery.
+Understanding the fundamental rules of nature (i.e., **physics, chemistry, and biology**) and solving problems of living beings through **mathematics** and **computer science**.
 <!--
 **MadanBaduwal/MadanBaduwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
