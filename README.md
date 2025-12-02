@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Understanding the fundamental rules of nature (i.e., **physics, chemistry, and biology**) and solving problems of living beings through **mathematics** and **computer science**.
+Understanding the fundamental rules of nature **physics, chemistry, and biology** and solving problems of living beings **engineering, entertainment, robotics, finance, economics...** through **english**, **mathematics**, and **computer science**.
 <!--
 **MadanBaduwal/MadanBaduwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
