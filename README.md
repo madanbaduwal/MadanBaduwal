@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Understanding the fundamental rules of nature **physics, chemistry, and biology** and solving problems of living beings **engineering, entertainment, robotics, finance, economics...** through **english**, **mathematics**, and **computer science**.
+My journey began with a deep fascination for **physics, chemistry, and biology**, a desire to understand the fundamental rules of nature, and to solve meaningful problems across domains such as **engineering, entertainment, robotics, finance,neconomics ...**. **English, mathematics,** and **programming** soon became the languages through which I explored that curiosity.
+
 <!--
 **MadanBaduwal/MadanBaduwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
