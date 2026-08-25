@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am currently pursuing a Ph.D. in Computer Science & Engineering at Mississippi State University (MSU), where my research focuses on Algorithms.
+PhD in Computer Science & Engineering at Mississippi State University. Graduate Research Assistant working on algorithms and wireless communications, with broader interests in Physics, English, Mathematics, Computer Science, and Robotics.
